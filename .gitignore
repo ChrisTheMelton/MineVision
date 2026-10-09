@@ -1,0 +1,4 @@
+/server/
+/.venv/
+/visualization/
+/minevision/player_position_data.json
